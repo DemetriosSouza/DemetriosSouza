@@ -46,6 +46,6 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/DemetriosSouza/DemetriosSouza/output/snake.svg](https://raw.githubusercontent.com/DemetriosSouza/DemetriosSouza/main/snake.svg)https://raw.githubusercontent.com/DemetriosSouza/DemetriosSouza/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DemetriosSouza/DemetriosSouza/output/snake.svg" alt="Snake animation" />
 
 ###
