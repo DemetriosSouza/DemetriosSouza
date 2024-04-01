@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Empreendedor que começou a estudar linguagem de programação por curiosidade e acabou se apaixonando pela área e hoje busca uma migração de carreira.<br><br>Formação em Administração, com MBA em Marketing.<br>Curso de Python e Análise de Dados pela Empowerdata e pela DIO<br>Foco em Desenvolvimento Web e Análise de Dados.<br>Cursando 1° período na Faculdade Descomplica em MBA em Big Data e Inteligência Competitiva</p>
+<p align="left">Empreendedor que começou a estudar linguagem de programação por curiosidade e acabou se apaixonando pela área e hoje busca uma migração de carreira.<br><br>Formação em Administração, com MBA em Marketing.<br>Curso de Python e Análise de Dados pela Empowerdata e pela DIO<br>Foco em Desenvolvimento Web e Análise de Dados.<br>Cursando 1° período na Faculdade Descomplica MBA em Big Data e Inteligência Competitiva</p>
 
 ###
 
